@@ -1,0 +1,37 @@
+[
+    {
+        "id": "1",
+        "title": "Factory 1",
+        "employees_count": 113,
+        "branch": "chemistry",
+        "address": "Kiev"
+    },
+    {
+        "id": "2",
+        "title": "Factory 2",
+        "employees_count": 239,
+        "branch": "food",
+        "address": "Kiev"
+    },
+    {
+        "id": "3",
+        "title": "Factory 3",
+        "employees_count": 784,
+        "branch": "IT",
+        "address": "Kiev"
+    },
+    {
+        "id": "4",
+        "title": "Factory 4",
+        "employees_count": "530",
+        "branch": "chemistry",
+        "address": "Kiev"
+    },
+    {
+        "id": "5",
+        "title": "Factory 5",
+        "employees_count": "300",
+        "branch": "chemistry",
+        "address": "Kiev"
+    }
+]
